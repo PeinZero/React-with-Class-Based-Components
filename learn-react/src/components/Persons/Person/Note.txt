@@ -1,0 +1,4 @@
+Here, we are making our own components
+
+- We make a folder with the name of the component, the name should be Capitalize.
+- Then we make a Componentname.js file, the name should be Capitalize.

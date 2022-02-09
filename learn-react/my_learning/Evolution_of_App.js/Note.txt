@@ -1,0 +1,5 @@
+- App.js contains the latest version
+- It contains best ways of doing things
+- This folder contains all the previously working version's of App.js
+- These versions make their way from start to the second latest version of App.js
+- This folder also have alternate methods of doing things.
